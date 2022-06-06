@@ -5,7 +5,7 @@
 ### RA - 1899279
 ### Disciplina - Redes de Computadores
 
-![socket-chat](https://user-images.githubusercontent.com/55399785/162646441-0267f079-0667-4467-b29c-bc5f30d72d03.png)
+![http](https://user-images.githubusercontent.com/55399785/172077637-e8d97605-0416-4ad3-9abc-cecd4691a91c.png)
 
 ### Execução do Projeto:
  - Realize o clone do Projeto
